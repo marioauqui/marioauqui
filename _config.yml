@@ -4,4 +4,3 @@ plugins:
 title: Minimal theme
 description: Minimal is a theme for GitHub Pages.
 show_downloads: true
-theme: jekyll-theme-minimal
